@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1599645600,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc4",
+      "datetime": 1599974183,
+      "filename": "lineage-17.1-20200913-tomato.zip",
+      "id": "ff26f99a537764c26bf5d9954156b383",
       "romtype": "UNOFFICIAL",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
+      "size": 589253901,
+      "url": "https://media.githubusercontent.com/media/eErenYeager/los_ota/master/lineage-17.1-20200913-tomato.zip",
       "version": "17.1"
     }
   ]
