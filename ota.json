@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1599974183,
-      "filename": "lineage-17.1-20200913-tomato.zip",
-      "id": "ff26f99a537764c26bf5d9954156b383",
+      "datetime": 1602324000,
+      "filename": "lineage-17.1-20201010-tomato.zip",
+      "id": "a2a32f0756595d4794650c228e3734f2",
       "romtype": "UNOFFICIAL",
-      "size": 589253901,
-      "url": "https://master.dl.sourceforge.net/project/lineage-tomato-ota/lineage-17.1-20200913-tomato.zip",
+      "size": 11514113,
+      "url": "https://master.dl.sourceforge.net/project/lineage-tomato-ota/lineage-17.1-20201010-tomato.zip?viasf=1",
       "version": "17.1"
     }
   ]
