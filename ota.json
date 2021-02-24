@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1613675421,
-      "filename": "lineage-17.1-20210218-tomato-FINAL-signed.zip",
-      "id": "f99e6fe8548550a183fa3de819df287e",
+      "datetime": 1614153743,
+      "filename": "lineage-17.1-20210224-tomato-FINAL1-signed.zip",
+      "id": "f9882c9ea8e9da81d284027a2a00fb8b",
       "romtype": "UNOFFICIAL",
-      "size": 596141703,
-      "url": "https://master.dl.sourceforge.net/project/lineage-tomato-ota/lineage-17.1-20210218-tomato-FINAL-signed.zip?viasf=1",
+      "size": 596080943,
+      "url": "https://master.dl.sourceforge.net/project/lineage-tomato-ota/lineage-17.1-20210224-tomato-FINAL1-signed.zip?viasf=1",
       "version": "17.1"
     }
   ]
